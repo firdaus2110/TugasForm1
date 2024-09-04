@@ -20,6 +20,8 @@
                 <option value="T3-C">T3-C</option>
                 <option value="T3-D">T3-D</option>
                 <option value="T3-E">T3-E</option>
+                <option value="T3-F">T3-F</option>
+                <option value="T3-G">T3-G</option>
             </select>
 
             <label for="email">Email :</label>
